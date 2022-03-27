@@ -22,6 +22,10 @@ a {
 p {
     font-size: 16px;
 }
+
+main {
+
+}
 /* End of element slectors  */
 
 .header {
@@ -76,6 +80,8 @@ p {
 
 }
 
+
+
 /* Bottom left text */
 /* Top right text */
 .top-right {
@@ -86,17 +92,66 @@ p {
     color: darkblue;
   }
 
+  /* ABOUT ME SECTION */
+
+  .aboutme {
+      background-color: white;
+      width:400px;
+    height:200px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.81px), 
+	                              black calc(50% - 0.8px), 
+	                              black calc(50% + 0.8px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 100%); 
+
+  }
+
+  .aboutme h1 {
+
+    color: #2a607c;
+
+    position: relative;
+    top: 30%;
+    font-size: 2.5em;
+
+  }
+
+  .aboutme p {
+
+    position: absolute;
+    width: 60%;
+    right: 10%;
+
+  }
+
+  .line-in-middle {
+    width:400px;
+    height:200px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.81px), 
+	                              black calc(50% - 0.8px), 
+	                              black calc(50% + 0.8px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 100%); 
+	}
+
+
+
         /*  images in work small and big */
 
         .work {
 
             flex: 4;
-            background-color: #fff;
-            padding: 50px;
+            background-color: #d9dcd6;
+            padding: 0px;
             display: flex;
             flex-wrap: wrap;
             justify-content: space-evenly;
             align-items: flex-start;
+            margin: 2%;
 
             /* display: flex;
             flex-wrap: wrap;
@@ -109,49 +164,57 @@ p {
         }
 
         .bigproject {
+            width: 80%;
 
 
         }
 
         .smallproject {
-
+            
+            width: 40%;
+            height: 20%
             
         }
 
         .card {
           
             border-style: solid;
-            border-width: 1px;
-            border-radius: 50px;
-            box-shadow: 10px 10px 5px #aaaaaa;
-            padding: 10px;
-            margin: 20px;
+            border-color: #2a607c;
+            border-width: 11px;
+            border-radius: 11px;
+            /* box-shadow: 10px 10px 5px #aaaaaa; */
+            /* padding: 27px;
+            margin: 34px; */
             
             box-shadow: 10px, 10px, ;
             flex: 0 0 300px;
+
           }
           
-          .card header {
-            rotate: (50px, 50px, 0px, 0px);
-            border-radius: 50px 50px 0px 0px;
+          .card h2 {
+            position: relative;
+            /* right: -2px;
+            bottom: -172px; */
+            background-color: lightblue;
+            color: darkblue;
+
+            }
           
-            padding: 20px;
+           
             
-          }
+          
           
           .card p {
             text-align: center;
           }
           
           .card img {
-            width: 30%;
+            width: 100%;
             align-items: center;
         
           }
 
-        .work {
-
-        }
+        
           
 
 
