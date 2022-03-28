@@ -9,10 +9,10 @@ This is my portfolio projection show casing some of the projects which I have wo
 
 ## Screen Shot
 
-[p1](Screen Shot 2022-03-28 at 7.28.05 PM.png
+![p1](Screen Shot 2022-03-28 at 7.28.05 PM.png
 )
-[p2](Screen Shot 2022-03-28 at 7.28.15 PM.png)
-[p3](Screen Shot 2022-03-28 at 7.28.23 PM.png)
+![p2](Screen Shot 2022-03-28 at 7.28.15 PM.png)
+![p3](Screen Shot 2022-03-28 at 7.28.23 PM.png)
 
 
 
