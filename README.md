@@ -10,7 +10,7 @@ This is my portfolio projection show casing some of the projects which I have wo
 ## Screen Shot
 
 ![p1](https://github.com/Jmaun22/Portfolio-page-highlights/blob/2a70c522888d072b506604d61686e9df1a30a945/Screen%20Shot%202022-03-28%20at%207.28.05%20PM.png)
-![p2](Screen Shot 2022-03-28 at 7.28.15 PM.png)
+![p2](https://github.com/Jmaun22/Portfolio-page-highlights/blob/b26c50fd1db92158e66a1bd4e8b2b0b32dd1c7a7/Screen%20Shot%202022-03-28%20at%207.28.15%20PM.png)
 ![p3](Screen Shot 2022-03-28 at 7.28.23 PM.png)
 
 
