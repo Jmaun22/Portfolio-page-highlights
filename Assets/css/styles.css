@@ -68,6 +68,9 @@ main {
 
 }
 
+#profliepic {
+    width: 7%;
+}
 
 /* Main class */
 
@@ -108,7 +111,7 @@ main {
 
   }
 
-  .aboutme h1 {
+  .aboutme h1, .work h1 {
 
     color: #2a607c;
 
@@ -125,8 +128,19 @@ main {
     right: 10%;
 
   }
+  /*  work h1 */
 
-  .line-in-middle {
+  .work h1 {
+
+    color: #2a607c;
+
+    position: relative;
+    top: 30%;
+    font-size: 2.5em;
+
+  }
+
+  /* .line-in-middle {
     width:400px;
     height:200px;
 	  background: linear-gradient(to right, 
@@ -137,7 +151,7 @@ main {
 	                              transparent calc(50% + 0.81px), 
 	                              transparent 100%); 
 	}
-
+ */
 
 
         /*  images in work small and big */
